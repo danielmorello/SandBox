@@ -4,7 +4,7 @@ function isEqualTo100 (a) {
 };
 
 function areEqualTo100 (a, b) {
-    return a === 100 || b === 100;
+    return a === 100 || b === 10;
 };
 
 function isSumEqualTo100 (a, b) {
